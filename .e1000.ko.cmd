@@ -1,1 +1,0 @@
-cmd_/mnt/hgfs/u/backport/e1000/wyj/e1000.ko := ld -r -m elf_i386 -T /mnt/hgfs/u/linux-kernel/3.5/src/scripts/module-common.lds --build-id  -o /mnt/hgfs/u/backport/e1000/wyj/e1000.ko /mnt/hgfs/u/backport/e1000/wyj/e1000.o /mnt/hgfs/u/backport/e1000/wyj/e1000.mod.o
